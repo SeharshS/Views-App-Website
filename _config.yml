@@ -6,7 +6,7 @@
 title: Views
 email: setechtechnologies@gmail.com
 description: Free to use static landing page template to showcase your mobile app
-baseurl: "/SeharshS.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/Views-App-Website" # the subpath of your site, e.g. /blog
 url: "https://seharshs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 twitter_username: SeharshS
