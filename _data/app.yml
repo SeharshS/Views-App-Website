@@ -1,0 +1,21 @@
+name: Mobile App Name
+description: A super tagline for the mobile app
+full_description: 'A more complete description of the mobile app<br>
+<br>With a lot of features:
+<br>- New way to interact with content!
+<br>- Focuses more on user engagement.
+<br>- Refreshed UI and UX
+android: https://play.google.com/store/apps/details?id=com.setech.views
+iOS: https://apps.apple.com/us/app/views-app/id1546534770
+screenshots:
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+  - 5.png
+producthunt:
+companies:
+  - url: https://telegra.ph/Replace-this-link-07-23
+    image: androidpolice.png
+  - url: https://telegra.ph/Replace-this-link-07-23
+    image: producthunt.png
